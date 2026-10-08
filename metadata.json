@@ -1,0 +1,6 @@
+{
+  "name": "Codee BBC - Basketball Club Ultimate Team",
+  "description": "NBA Mobile & 2K MyTeam inspired basketball card game with squad building, real-time tactical match simulation, shooting drills, and pack opening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
